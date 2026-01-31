@@ -1,0 +1,21 @@
+{
+  "name": "CrazyFishingPro",
+  "short_name": "CrazyFishingPro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#071a2a",
+  "theme_color": "#00c8d2",
+  "description": "Planner meteo & mare, spot Sardegna e previsione attività pesci (24h).",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
